@@ -1,24 +1,24 @@
 # Programa de Pós-Graduação em Química homologa resultado final de seleção para 2026/1
 
-**Lead:** Colegiado do curso aprovou a lista de novos mestrandos e doutorandos, além de homologar defesas e qualificações acadêmicas.
+**Lead:** Lista de aprovados para os cursos de mestrado e doutorado foi validada pelo Colegiado de Curso em reunião ordinária.
 
 ---
 
-O Colegiado de Curso dos cursos de Mestrado e Doutorado em Química do Instituto de Química da UFMS homologou, em reunião ordinária, o resultado final do exame de seleção para ingresso no primeiro semestre de 2026 (2026/1), referente ao Edital nº 43/2026 – PROPP/UFMS.
+O Colegiado de Curso dos cursos de Mestrado e Doutorado em Química do Instituto de Química da UFMS homologou o resultado final do exame de seleção para ingresso no semestre 2026/1. A decisão foi tomada por unanimidade durante a 88ª Reunião Ordinária do colegiado.
 
-No mestrado, a classificação geral foi liderada por Maria Eduarda Rodrigues Costa, enquanto Mirya Alves de Lima Ribeiro obteve o primeiro lugar nas Ações Afirmativas. Já no doutorado, Muhammad Kashif conquistou a primeira colocação geral e Manoel Maria Soares de Lima Filho liderou a lista de Ações Afirmativas. O colegiado também validou os resultados das provas de suficiência e proficiência em língua inglesa realizadas em fevereiro de 2026.
+No mestrado, a candidata Maria Eduarda Rodrigues Costa conquistou o primeiro lugar na classificação geral com a nota final de 19,99. A lista de aprovados contempla 12 candidatos, sendo Mirya Alves de Lima Ribeiro a primeira colocada nas Ações Afirmativas.
 
-Além do processo seletivo, a reunião serviu para a homologação de etapas importantes da vida acadêmica de diversos estudantes. Foram aprovadas as atas de defesa de mestrado de Myllena Souza de Araújo, Maria Eduarda Maranni e Yandra Kaori Itiki, bem como as defesas de doutorado de Michell Nunes Lôpo, Hellenicy Vitor Rezende, Vinicius de Oliveira Araujo e José Antônio Pereira.
+Para o doutorado, Muhammad Kashif obteve a maior nota final (16,98), assumindo a primeira posição geral. Já nas Ações Afirmativas, o primeiro lugar ficou com Manoel Maria Soares de Lima Filho. Ao todo, 13 candidatos foram classificados para o curso de doutorado.
 
-O grupo também homologou os pareceres de qualificação de Ricardo Aparecido Rodrigues da Silva e Vinicius de Oliveira Araujo. A sessão foi presidida pela professora Martha Janete de Giz e contou com a participação de representantes docentes e discentes do programa.
+Além da seleção de novos alunos, o colegiado também homologou os resultados das provas de suficiência e proficiência em língua inglesa, aplicadas em 3 de fevereiro de 2026, essenciais para a regularidade dos ingressantes. A reunião também validou atas de defesas de mestrado e doutorado, bem como pareceres de qualificação de discentes do programa.
 
 ---
 
 **Palavras-chave:** Pós-Graduação, Química, Processo Seletivo
-**Sugestão de fonte:** Colegiado do Programa de Pós-Graduação em Química
+**Sugestão de fonte:** Colegiado de Curso de Mestrado e Doutorado em Química
 **Link original:** https://boletimoficial.ufms.br/
 
 ---
 *Ato original:* ATA (CPOS-QUI/INQUI) Reunião Ordinária nº 88, de 17-06-2026. - pg. 276
-*Avaliação:* relevância=média | público=pesquisadores | cobertura=nota curta
+*Avaliação:* relevância=média | público=estudantes | cobertura=nota curta
 *Gerado automaticamente — revisar antes de publicar.*

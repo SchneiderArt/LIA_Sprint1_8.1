@@ -1,21 +1,21 @@
 # UFMS divulga resultado final de seleção para supervisores do Pibid
 
-**Lead:** A Pró-Reitoria de Graduação publicou a lista de professores selecionados e para cadastro reserva no processo de fluxo contínuo do programa.
+**Lead:** A Pró-Reitoria de Graduação (Prograd) publicou a lista de professores selecionados e classificados para o cadastro reserva do Programa Institucional de Bolsa de Iniciação à Docência.
 
 ---
 
-A Universidade Federal de Mato Grosso do Sul (UFMS), por meio da Pró-Reitoria de Graduação (PROGRAD), tornou público o resultado final da seleção de fluxo contínuo para professores que atuarão como supervisores no Programa Institucional de Bolsa de Iniciação à Docência (Pibid).
+A Universidade Federal de Mato Grosso do Sul (UFMS), por meio da Pró-Reitoria de Graduação (Prograd), tornou público o resultado final da seleção de fluxo contínuo para professores que atuarão como supervisores do Programa Institucional de Bolsa de Iniciação à Docência (Pibid).
 
-O resultado, detalhado no Edital nº 259/2026, apresenta os candidatos selecionados e aqueles classificados para o cadastro reserva. De acordo com o documento, a classificação dos aprovados segue a ordem de continuidade de editais anteriores do processo de fluxo contínuo (nº 135/2025, nº 121/2025 e nº 50/2026). O edital também informa que não houve interposição de recursos administrativos.
+De acordo com o Edital nº 259/2026, a lista de aprovados inclui candidatos selecionados para atuação imediata e outros classificados para o cadastro reserva. A classificação segue a ordem estabelecida em editais anteriores de fluxo contínuo da Prograd. O documento informa que não houve a interposição de recursos administrativos durante o processo.
 
-Um ponto de atenção para os docentes é a ausência de inscrições para diversos subprojetos em cidades como Campo Grande, Aquidauana, Corumbá, Paranaíba, Coxim, Nova Andradina, Naviraí, Ponta Porã e Três Lagoas, abrangendo diversas áreas do conhecimento, como Artes, Letras, Pedagogia, Matemática e Biologia, entre outras.
+O edital também destaca um número significativo de vagas desertas, ou seja, subprojetos que não receberam inscrições. A ausência de candidatos ocorreu em diversas áreas e municípios, incluindo Campo Grande, Aquidauana, Corumbá, Paranaíba, Coxim, Nova Andradina, Naviraí, Ponta Porã e Três Lagoas, abrangendo cursos como Pedagogia, Matemática, História, Biologia, entre outros.
 
-Quanto aos próximos passos, a Coordenação de Área do Programa entrará em contato com os selecionados via e-mail (cadastrado no SIGProj UFMS) para orientar o início das atividades. Em caso de vacância durante a vigência do programa, a UFMS convocará os candidatos do cadastro reserva, respeitando a ordem de classificação e a comprovação dos requisitos exigidos no Edital nº 50/2026.
+Os candidatos selecionados serão contatados pela Coordenação de Área do Programa através do e-mail informado no sistema SIGProj UFMS para as orientações sobre o início das atividades. Em caso de vacância durante a vigência do programa, a universidade convocará os candidatos do cadastro reserva, respeitando a ordem de classificação e a comprovação dos requisitos exigidos no edital de abertura.
 
 ---
 
-**Palavras-chave:** Pibid, PROGRAD, Supervisores
-**Sugestão de fonte:** Pró-Reitoria de Graduação (PROGRAD)
+**Palavras-chave:** Pibid, Prograd, Supervisores
+**Sugestão de fonte:** Pró-Reitoria de Graduação (Prograd)
 **Link original:** https://boletimoficial.ufms.br/
 
 ---

@@ -1,16 +1,16 @@
-# UFMS firma contrato para implantar Observatório de Educação Digital e Rede ENEC
+# UFMS firma contrato para implantar Observatório de Educação Digital e Rede de Formadores
 
 **Lead:** Parceria com a FAPEC viabiliza a gestão de projeto voltado à governança da Estratégia Nacional de Escolas Conectadas. A iniciativa conta com investimento de R$ 5,8 milhões.
 
 ---
 
-A Universidade Federal de Mato Grosso do Sul (UFMS) formalizou a contratação da Fundação de Apoio à Pesquisa, ao Ensino e a Cultura (FAPEC) para viabilizar a execução de um projeto de extensão com impacto nacional. O objetivo é a implantação, operacionalização e consolidação do Observatório de Educação Digital (O-Digital) e da Rede de Formadores da Estratégia Nacional de Escolas Conectadas (Rede ENEC).
+A Universidade Federal de Mato Grosso do Sul (UFMS) formalizou a contratação da Fundação de Apoio à Pesquisa, ao Ensino e a Cultura (FAPEC) para a execução de um projeto estratégico de extensão voltado à educação digital no Brasil. O contrato, assinado em 15 de junho de 2026, prevê o aporte de R$ 5.827.905,92 para a viabilização da iniciativa.
 
-O projeto visa estabelecer um sistema de formação e monitoramento para apoiar a governança federativa da Estratégia Nacional de Escolas Conectadas (ENEC), reforçando o papel da UFMS na promoção da educação digital no país. Para a execução das atividades, a FAPEC prestará serviços de gestão administrativa e financeira, garantindo a viabilidade operacional da iniciativa.
+O objetivo central do projeto é a implantação, operacionalização e consolidação do Observatório de Educação Digital (O-Digital) e da Rede de Formadores da Estratégia Nacional de Escolas Conectadas (Rede ENEC). Essas ferramentas serão fundamentais para a formação de profissionais e para o monitoramento sistêmico, oferecendo suporte à governança federativa da Estratégia Nacional de Escolas Conectadas (ENEC).
 
-O contrato, assinado em 15 de junho de 2026, prevê um investimento total de R$ 5.827.905,92. O prazo de vigência do acordo estende-se de 15 de junho de 2026 até 15 de fevereiro de 2028.
+Na prática, a FAPEC atuará no apoio à UFMS por meio de serviços de gestão administrativa e financeira, garantindo que a execução do plano de trabalho ocorra de forma eficiente. A medida visa fortalecer a conectividade e a qualidade do ensino digital em escolas, integrando a universidade a um esforço nacional de modernização educacional.
 
-A assinatura do documento foi realizada pelo Pró-Reitor de Administração e Infraestrutura, Hercules da Costa Sandim, representando a UFMS, e pelo representante legal da FAPEC. A ação reafirma o compromisso da instituição em expandir sua atuação social e técnica para além dos limites do campus, contribuindo para a modernização da infraestrutura educacional brasileira.
+O contrato tem vigência estabelecida entre 15 de junho de 2026 e 15 de fevereiro de 2028. A assinatura do documento foi realizada pelo Pró-Reitor de Administração e Infraestrutura, Hercules da Costa Sandim, representando a UFMS.
 
 ---
 

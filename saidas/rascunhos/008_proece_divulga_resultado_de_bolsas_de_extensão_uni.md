@@ -1,20 +1,20 @@
 # Proece divulga resultado de bolsas de extensão universitária para 2026
 
-**Lead:** Edital lista estudantes selecionados para projetos de extensão com vigências que iniciam em junho de 2026. Confira a relação de bolsistas e os valores das bolsas.
+**Lead:** A Pró-Reitoria de Extensão, Cultura e Esporte (Proece) publicou a lista de estudantes selecionados para bolsas de extensão. O resultado detalha os projetos vinculados, valores e prazos de vigência.
 
 ---
 
-A Pró-Reitoria de Extensão, Cultura e Esporte (Proece) da Universidade Federal de Mato Grosso do Sul (UFMS) tornou público o resultado do cadastro de candidatos a Bolsas de Extensão Universitária para o ano de 2026, conforme o Edital nº 330/2026.
+A Universidade Federal de Mato Grosso do Sul (UFMS), por meio da Pró-Reitoria de Extensão, Cultura e Esporte (Proece), tornou público o resultado do cadastro de candidatos a Bolsas de Extensão Universitária para o ano de 2026, conforme o Edital nº 330/2026.
 
-O documento detalha a lista de estudantes selecionados, os projetos aos quais estão vinculados, a coordenação responsável, os valores das bolsas e a fonte pagadora (Fapec). Entre as iniciativas contempladas estão projetos de arqueologia, supervisão ocupacional, educação para o trânsito em parceria com o Detran, o escritório de projetos do Paraná e ações voltadas ao curso de Psicologia (Projeto Fortalecer).
+O documento lista os estudantes selecionados para atuar em diversas frentes de extensão, com bolsas financiadas pela Fapec. Entre os projetos contemplados estão iniciativas de supervisão ocupacional e regularização fundiária no Acre, análises arqueológicas no Museu de Arqueologia da UFMS, o Escritório de Projetos do Paraná, a parceria com o Detran para educação da infância e o programa Fortalecer, voltado ao curso de Psicologia.
 
-As vigências das bolsas variam conforme o projeto, com início geral em junho de 2026. Alguns prazos estendem-se até dezembro de 2026, enquanto outros, como os do curso de Psicologia, têm previsão de término em maio de 2028. Os valores das bolsas variam entre R$ 700,00 e R$ 1.450,00.
+Os valores das bolsas variam entre R$ 700,00 e R$ 1.450,00, dependendo do projeto. A vigência dos auxílios inicia em junho de 2026, com prazos de encerramento que variam conforme a natureza da ação, estendendo-se, em alguns casos, até maio de 2028.
 
-Os estudantes interessados em verificar a classificação completa e os detalhes de cada concessão devem acessar o edital publicado no Boletim Oficial da instituição.
+Os estudantes selecionados devem conferir a lista completa e as orientações para a concessão do benefício no Boletim Oficial da instituição. A seleção segue as normas regulamentadoras de ações de extensão da UFMS e as diretrizes de controle de bolsas e auxílios da universidade.
 
 ---
 
-**Palavras-chave:** Bolsas de Extensão, Proece, Resultado Edital
+**Palavras-chave:** Bolsas de Extensão, Proece, Estudantes
 **Sugestão de fonte:** Pró-Reitoria de Extensão, Cultura e Esporte (Proece)
 **Link original:** https://boletimoficial.ufms.br/
 
