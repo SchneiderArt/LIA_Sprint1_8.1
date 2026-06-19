@@ -1,7 +1,6 @@
 import argparse
 import os
 import re
-import time
 from pathlib import Path
 
 import pdfplumber
@@ -36,8 +35,8 @@ def coletar_publicacoes_boletim(headless=False):
             print(f"\nForam encontradas {quantidade} publicações nesta edição. Iniciando extração total...\n")
             
             for i in range(quantidade):
-                time.sleep(1) 
-                
+                page.wait_for_timeout(1200)
+
                 item_atual = itens.nth(i)
                 item_atual.scroll_into_view_if_needed()
                 
