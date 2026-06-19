@@ -1,0 +1,14 @@
+# Bibliotecas base exigidas pelo edital da Sprint 1
+playwright
+pydantic>=2.0.0
+pandas
+openpyxl
+pdfplumber
+
+# Bibliotecas para integração com LLM e variáveis de ambiente (llm.py)
+python-dotenv
+langchain-openai
+openai
+
+# Orquestração do agente como grafo (agent/grafo.py)
+langgraph

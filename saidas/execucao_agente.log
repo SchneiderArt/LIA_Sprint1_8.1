@@ -1,0 +1,271 @@
+{"timestamp": "2026-06-16T22:38:25.451110", "exec_id": "f14e42a7", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=273 completion=131 total=404"}
+{"timestamp": "2026-06-16T22:38:26.759465", "exec_id": "f14e42a7", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=288 completion=63 total=351"}
+{"timestamp": "2026-06-16T22:38:36.385117", "exec_id": "f14e42a7", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=277 completion=120 total=397"}
+{"timestamp": "2026-06-17T15:02:33.561515", "exec_id": "8d4da20d", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=267 completion=77 total=344"}
+{"timestamp": "2026-06-17T15:02:35.655190", "exec_id": "8d4da20d", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=286 completion=70 total=356"}
+{"timestamp": "2026-06-17T15:02:37.804731", "exec_id": "8d4da20d", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=270 completion=76 total=346"}
+{"timestamp": "2026-06-18T03:29:07.065626", "exec_id": "f990c56a", "level": "INFO", "logger": "__main__", "message": "modo | usando extra\u00e7\u00e3o existente (--sem-coleta)"}
+{"timestamp": "2026-06-18T03:29:07.502179", "exec_id": "f990c56a", "level": "INFO", "logger": "__main__", "message": "coleta | 49 publica\u00e7\u00f5es carregadas de extraction/"}
+{"timestamp": "2026-06-18T03:29:07.502370", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: ATA (COEX) Reuni\u00e3o Ordin\u00e1ria n\u00ba 77, de 16-03-2026. - pg. 267"}
+{"timestamp": "2026-06-18T03:29:12.210419", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2477 completion=109 total=2586"}
+{"timestamp": "2026-06-18T03:29:12.210860", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2586"}
+{"timestamp": "2026-06-18T03:29:12.211054", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: ATA (COEX) Reuni\u00e3o Ordin\u00e1ria n\u00ba 77, de 16-03-2026. - pg. 267"}
+{"timestamp": "2026-06-18T03:29:27.513316", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2414 completion=488 total=2902"}
+{"timestamp": "2026-06-18T03:29:27.513655", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2902"}
+{"timestamp": "2026-06-18T03:29:27.515604", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\001_ufms_abre_planet\u00e1rio_para_a_comunidade_e_inicia_in.md"}
+{"timestamp": "2026-06-18T03:29:27.515921", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 257, de 17-06-2026. - pg. 192"}
+{"timestamp": "2026-06-18T03:29:35.167801", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2468 completion=130 total=2598"}
+{"timestamp": "2026-06-18T03:29:35.168019", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=2598"}
+{"timestamp": "2026-06-18T03:29:35.168208", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 257, de 17-06-2026. - pg. 192"}
+{"timestamp": "2026-06-18T03:29:53.897596", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2460 completion=530 total=2990"}
+{"timestamp": "2026-06-18T03:29:53.897933", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2990"}
+{"timestamp": "2026-06-18T03:29:53.900363", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\002_ufms_publica_segunda_convoca\u00e7\u00e3o_para_matr\u00edcula_em_.md"}
+{"timestamp": "2026-06-18T03:29:53.900904", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 258, de 17-06-2026. - pg. 198"}
+{"timestamp": "2026-06-18T03:29:57.258644", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2643 completion=112 total=2755"}
+{"timestamp": "2026-06-18T03:29:57.258773", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2755"}
+{"timestamp": "2026-06-18T03:29:57.258875", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 258, de 17-06-2026. - pg. 198"}
+{"timestamp": "2026-06-18T03:30:20.873829", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2616 completion=457 total=3073"}
+{"timestamp": "2026-06-18T03:30:20.874293", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3073"}
+{"timestamp": "2026-06-18T03:30:20.877075", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\003_ufms_divulga_resultado_final_de_sele\u00e7\u00e3o_de_fluxo_c.md"}
+{"timestamp": "2026-06-18T03:30:20.877497", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 259, de 17-06-2026. - pg. 202"}
+{"timestamp": "2026-06-18T03:30:29.793628", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2400 completion=112 total=2512"}
+{"timestamp": "2026-06-18T03:30:29.793836", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2512"}
+{"timestamp": "2026-06-18T03:30:29.794012", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 259, de 17-06-2026. - pg. 202"}
+{"timestamp": "2026-06-18T03:30:43.404967", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2373 completion=460 total=2833"}
+{"timestamp": "2026-06-18T03:30:43.405270", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2833"}
+{"timestamp": "2026-06-18T03:30:43.406947", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\004_ufms_divulga_resultado_final_de_sele\u00e7\u00e3o_para_super.md"}
+{"timestamp": "2026-06-18T03:30:43.407160", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 260, de 17-06-2026. - pg. 205"}
+{"timestamp": "2026-06-18T03:30:46.794578", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2668 completion=120 total=2788"}
+{"timestamp": "2026-06-18T03:30:46.794785", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=2788"}
+{"timestamp": "2026-06-18T03:30:46.794956", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 260, de 17-06-2026. - pg. 205"}
+{"timestamp": "2026-06-18T03:30:53.179506", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2648 completion=460 total=3108"}
+{"timestamp": "2026-06-18T03:30:53.179940", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3108"}
+{"timestamp": "2026-06-18T03:30:53.182615", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\005_ufms_convoca_estudantes_de_licenciatura_para_bolsa.md"}
+{"timestamp": "2026-06-18T03:30:53.183011", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROECE/RTR) n\u00ba 331, de 16-06-2026. - pg. 210"}
+{"timestamp": "2026-06-18T03:30:57.730239", "exec_id": "f990c56a", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3071 completion=103 total=3174"}
+{"timestamp": "2026-06-18T03:30:57.730502", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=3174"}
+{"timestamp": "2026-06-18T03:30:57.730715", "exec_id": "f990c56a", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROECE/RTR) n\u00ba 331, de 16-06-2026. - pg. 210"}
+{"timestamp": "2026-06-18T03:31:59.524246", "exec_id": "734a8d10", "level": "INFO", "logger": "__main__", "message": "modo | usando extra\u00e7\u00e3o existente (--sem-coleta)"}
+{"timestamp": "2026-06-18T03:31:59.532759", "exec_id": "734a8d10", "level": "INFO", "logger": "__main__", "message": "coleta | 49 publica\u00e7\u00f5es carregadas de extraction/"}
+{"timestamp": "2026-06-18T03:31:59.532937", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: ATA (COEX) Reuni\u00e3o Ordin\u00e1ria n\u00ba 77, de 16-03-2026. - pg. 267"}
+{"timestamp": "2026-06-18T03:32:04.042754", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2477 completion=116 total=2593"}
+{"timestamp": "2026-06-18T03:32:04.043146", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=mat\u00e9ria m\u00e9dia tokens=2593"}
+{"timestamp": "2026-06-18T03:32:04.043362", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: ATA (COEX) Reuni\u00e3o Ordin\u00e1ria n\u00ba 77, de 16-03-2026. - pg. 267"}
+{"timestamp": "2026-06-18T03:32:37.847111", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2421 completion=485 total=2906"}
+{"timestamp": "2026-06-18T03:32:37.847634", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2906"}
+{"timestamp": "2026-06-18T03:32:37.850656", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\001_ufms_abrir\u00e1_primeiro_planet\u00e1rio_fixo_de_mato_gross.md"}
+{"timestamp": "2026-06-18T03:32:37.851269", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 257, de 17-06-2026. - pg. 192"}
+{"timestamp": "2026-06-18T03:32:43.163505", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2468 completion=109 total=2577"}
+{"timestamp": "2026-06-18T03:32:43.163857", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=2577"}
+{"timestamp": "2026-06-18T03:32:43.164164", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 257, de 17-06-2026. - pg. 192"}
+{"timestamp": "2026-06-18T03:33:13.147633", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2438 completion=519 total=2957"}
+{"timestamp": "2026-06-18T03:33:13.147906", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2957"}
+{"timestamp": "2026-06-18T03:33:13.149609", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\002_ufms_abre_prazo_para_2\u00aa_chamada_de_matr\u00edcula_em_mo.md"}
+{"timestamp": "2026-06-18T03:33:13.149802", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 258, de 17-06-2026. - pg. 198"}
+{"timestamp": "2026-06-18T03:33:25.601460", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2643 completion=118 total=2761"}
+{"timestamp": "2026-06-18T03:33:25.601722", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2761"}
+{"timestamp": "2026-06-18T03:33:25.601936", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 258, de 17-06-2026. - pg. 198"}
+{"timestamp": "2026-06-18T03:34:03.119854", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2656 completion=489 total=3145"}
+{"timestamp": "2026-06-18T03:34:03.120264", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3145"}
+{"timestamp": "2026-06-18T03:34:03.122709", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\003_ufms_divulga_resultado_final_de_sele\u00e7\u00e3o_de_fluxo_c.md"}
+{"timestamp": "2026-06-18T03:34:03.123049", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 259, de 17-06-2026. - pg. 202"}
+{"timestamp": "2026-06-18T03:34:05.742488", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2400 completion=112 total=2512"}
+{"timestamp": "2026-06-18T03:34:05.742760", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2512"}
+{"timestamp": "2026-06-18T03:34:05.742998", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 259, de 17-06-2026. - pg. 202"}
+{"timestamp": "2026-06-18T03:34:22.429232", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2373 completion=501 total=2874"}
+{"timestamp": "2026-06-18T03:34:22.429868", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2874"}
+{"timestamp": "2026-06-18T03:34:22.432821", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\004_ufms_divulga_resultado_final_de_sele\u00e7\u00e3o_para_super.md"}
+{"timestamp": "2026-06-18T03:34:22.433260", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) n\u00ba 260, de 17-06-2026. - pg. 205"}
+{"timestamp": "2026-06-18T03:34:36.765163", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2668 completion=121 total=2789"}
+{"timestamp": "2026-06-18T03:34:36.765451", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=2789"}
+{"timestamp": "2026-06-18T03:34:36.765727", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) n\u00ba 260, de 17-06-2026. - pg. 205"}
+{"timestamp": "2026-06-18T03:35:04.794333", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2684 completion=488 total=3172"}
+{"timestamp": "2026-06-18T03:35:04.794518", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3172"}
+{"timestamp": "2026-06-18T03:35:04.795506", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\005_ufms_convoca_estudantes_de_licenciatura_para_bolsa.md"}
+{"timestamp": "2026-06-18T03:35:04.795631", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROECE/RTR) n\u00ba 331, de 16-06-2026. - pg. 210"}
+{"timestamp": "2026-06-18T03:35:08.214840", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3071 completion=105 total=3176"}
+{"timestamp": "2026-06-18T03:35:08.215374", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=3176"}
+{"timestamp": "2026-06-18T03:35:08.215794", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROECE/RTR) n\u00ba 331, de 16-06-2026. - pg. 210"}
+{"timestamp": "2026-06-18T03:35:12.235176", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3041 completion=407 total=3448"}
+{"timestamp": "2026-06-18T03:35:12.235406", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3448"}
+{"timestamp": "2026-06-18T03:35:12.236783", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\006_ufms_divulga_resultado_de_concess\u00e3o_da_bolsa_artis.md"}
+{"timestamp": "2026-06-18T03:35:12.236952", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROECE/RTR) n\u00ba 332, de 16-06-2026. - pg. 222"}
+{"timestamp": "2026-06-18T03:35:14.715984", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3157 completion=132 total=3289"}
+{"timestamp": "2026-06-18T03:35:14.716161", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=mat\u00e9ria m\u00e9dia tokens=3289"}
+{"timestamp": "2026-06-18T03:35:14.716309", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROECE/RTR) n\u00ba 332, de 16-06-2026. - pg. 222"}
+{"timestamp": "2026-06-18T03:35:18.861832", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3150 completion=444 total=3594"}
+{"timestamp": "2026-06-18T03:35:18.862181", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3594"}
+{"timestamp": "2026-06-18T03:35:18.864302", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\007_proece_divulga_resultado_preliminar_de_fomento_a_a.md"}
+{"timestamp": "2026-06-18T03:35:18.864555", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROECE/RTR) n\u00ba 330, de 16-06-2026. - pg. 216"}
+{"timestamp": "2026-06-18T03:35:25.283177", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2923 completion=103 total=3026"}
+{"timestamp": "2026-06-18T03:35:25.283395", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=3026"}
+{"timestamp": "2026-06-18T03:35:25.283682", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROECE/RTR) n\u00ba 330, de 16-06-2026. - pg. 216"}
+{"timestamp": "2026-06-18T03:35:29.655587", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2854 completion=448 total=3302"}
+{"timestamp": "2026-06-18T03:35:29.656010", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3302"}
+{"timestamp": "2026-06-18T03:35:29.658471", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\008_proece_divulga_resultado_de_bolsas_de_extens\u00e3o_uni.md"}
+{"timestamp": "2026-06-18T03:35:29.658776", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CGL/BIO/CPAQ) n\u00ba 2, de 15-06-2026. - pg. 246"}
+{"timestamp": "2026-06-18T03:35:34.421317", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1200 completion=100 total=1300"}
+{"timestamp": "2026-06-18T03:35:34.421580", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1300"}
+{"timestamp": "2026-06-18T03:35:34.421791", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CPNV) n\u00ba 33, de 16-06-2026. - pg. 247"}
+{"timestamp": "2026-06-18T03:35:38.653846", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1335 completion=109 total=1444"}
+{"timestamp": "2026-06-18T03:35:38.654287", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1444"}
+{"timestamp": "2026-06-18T03:35:38.654666", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CAS/CPNA) n\u00ba 3, de 16-06-2026. - pg. 249"}
+{"timestamp": "2026-06-18T03:35:50.977390", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1243 completion=103 total=1346"}
+{"timestamp": "2026-06-18T03:35:50.977577", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1346"}
+{"timestamp": "2026-06-18T03:35:50.977727", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: ATA (CGL-PED/CPNV/UFMS) Reuni\u00e3o Ordin\u00e1ria n\u00ba 1, de 31-03-202"}
+{"timestamp": "2026-06-18T03:35:58.041333", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2288 completion=117 total=2405"}
+{"timestamp": "2026-06-18T03:35:58.041568", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=2405"}
+{"timestamp": "2026-06-18T03:35:58.041782", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (FACFAN/UFMS) n\u00ba 18, de 16-06-2026. - pg. 250"}
+{"timestamp": "2026-06-18T03:36:01.469295", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2589 completion=119 total=2708"}
+{"timestamp": "2026-06-18T03:36:01.469624", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=2708"}
+{"timestamp": "2026-06-18T03:36:01.469907", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CPOS-BIA/INBIO/UFMS) n\u00ba 2, de 16-06-2026. - pg. 256"}
+{"timestamp": "2026-06-18T03:36:04.264037", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1305 completion=97 total=1402"}
+{"timestamp": "2026-06-18T03:36:04.264162", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1402"}
+{"timestamp": "2026-06-18T03:36:04.264269", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CAS/INMA) n\u00ba 3, de 16-06-2026. - pg. 257"}
+{"timestamp": "2026-06-18T03:36:06.080652", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1349 completion=107 total=1456"}
+{"timestamp": "2026-06-18T03:36:06.080935", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1456"}
+{"timestamp": "2026-06-18T03:36:06.081168", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL DE CONVOCA\u00c7\u00c3O (CAS/INQUI) n\u00ba 2, de 17-06-2026. - pg. "}
+{"timestamp": "2026-06-18T03:36:07.774756", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1293 completion=108 total=1401"}
+{"timestamp": "2026-06-18T03:36:07.775054", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1401"}
+{"timestamp": "2026-06-18T03:36:07.775300", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (CGT-PGR/ESAN) n\u00ba 2, de 17-06-2026. - pg. 260"}
+{"timestamp": "2026-06-18T03:36:11.133244", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1053 completion=93 total=1146"}
+{"timestamp": "2026-06-18T03:36:11.133429", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1146"}
+{"timestamp": "2026-06-18T03:36:11.133579", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (AGEAD) n\u00ba 132, de 16-06-2026. - pg. 263"}
+{"timestamp": "2026-06-18T03:36:16.310472", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2121 completion=109 total=2230"}
+{"timestamp": "2026-06-18T03:36:16.310593", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=2230"}
+{"timestamp": "2026-06-18T03:36:16.310691", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (AGEAD) n\u00ba 131, de 16-06-2026. - pg. 261"}
+{"timestamp": "2026-06-18T03:36:25.882179", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2332 completion=112 total=2444"}
+{"timestamp": "2026-06-18T03:36:25.882430", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2444"}
+{"timestamp": "2026-06-18T03:36:25.882637", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (AGEAD) n\u00ba 131, de 16-06-2026. - pg. 261"}
+{"timestamp": "2026-06-18T03:36:43.131077", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2310 completion=517 total=2827"}
+{"timestamp": "2026-06-18T03:36:43.131416", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2827"}
+{"timestamp": "2026-06-18T03:36:43.133436", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\009_ufms_formaliza_concess\u00e3o_de_bolsas_para_projeto_de.md"}
+{"timestamp": "2026-06-18T03:36:43.133715", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL CONJUNTO (PROGEP/AGETIC) n\u00ba 4, de 17-06-2026. - pg. 2"}
+{"timestamp": "2026-06-18T03:36:50.305060", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2286 completion=110 total=2396"}
+{"timestamp": "2026-06-18T03:36:50.305191", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=2396"}
+{"timestamp": "2026-06-18T03:36:50.305288", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL CONJUNTO (PROGEP/AGETIC) n\u00ba 4, de 17-06-2026. - pg. 2"}
+{"timestamp": "2026-06-18T03:37:05.184142", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2296 completion=568 total=2864"}
+{"timestamp": "2026-06-18T03:37:05.184404", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2864"}
+{"timestamp": "2026-06-18T03:37:05.186217", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\010_ufms_abre_inscri\u00e7\u00f5es_para_disponibiliza\u00e7\u00e3o_de_comp.md"}
+{"timestamp": "2026-06-18T03:37:05.186458", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EXTRATO DE CONTRATO (PROADI/RTR) n\u00ba 40, de 17-06-2026. - pg."}
+{"timestamp": "2026-06-18T03:37:08.386943", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1112 completion=115 total=1227"}
+{"timestamp": "2026-06-18T03:37:08.387175", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=mat\u00e9ria m\u00e9dia tokens=1227"}
+{"timestamp": "2026-06-18T03:37:08.387366", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EXTRATO DE CONTRATO (PROADI/RTR) n\u00ba 40, de 17-06-2026. - pg."}
+{"timestamp": "2026-06-18T03:37:21.998736", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1056 completion=497 total=1553"}
+{"timestamp": "2026-06-18T03:37:21.999193", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=1553"}
+{"timestamp": "2026-06-18T03:37:22.001903", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\011_ufms_firma_contrato_para_implantar_observat\u00f3rio_de.md"}
+{"timestamp": "2026-06-18T03:37:22.002256", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1027, de 16-06-2026. - pg. 4"}
+{"timestamp": "2026-06-18T03:37:31.318367", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1122 completion=100 total=1222"}
+{"timestamp": "2026-06-18T03:37:31.318800", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1222"}
+{"timestamp": "2026-06-18T03:37:31.319189", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: ATA (CAS/INFI) Reuni\u00e3o Ordin\u00e1ria n\u00ba 118, de 02-04-2026. - pg"}
+{"timestamp": "2026-06-18T03:37:37.229387", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2478 completion=122 total=2600"}
+{"timestamp": "2026-06-18T03:37:37.229591", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=2600"}
+{"timestamp": "2026-06-18T03:37:37.229833", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1028, de 16-06-2026. - pg. 5"}
+{"timestamp": "2026-06-18T03:37:40.637730", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1139 completion=100 total=1239"}
+{"timestamp": "2026-06-18T03:37:40.638004", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1239"}
+{"timestamp": "2026-06-18T03:37:40.638226", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1030, de 16-06-2026. - pg. 7"}
+{"timestamp": "2026-06-18T03:37:44.015145", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1147 completion=101 total=1248"}
+{"timestamp": "2026-06-18T03:37:44.015373", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1248"}
+{"timestamp": "2026-06-18T03:37:44.015590", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1031, de 16-06-2026. - pg. 8"}
+{"timestamp": "2026-06-18T03:37:53.102157", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1183 completion=90 total=1273"}
+{"timestamp": "2026-06-18T03:37:53.102369", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1273"}
+{"timestamp": "2026-06-18T03:37:53.102539", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1032, de 16-06-2026. - pg. 9"}
+{"timestamp": "2026-06-18T03:37:58.212219", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1119 completion=100 total=1219"}
+{"timestamp": "2026-06-18T03:37:58.212522", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1219"}
+{"timestamp": "2026-06-18T03:37:58.212734", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1033, de 16-06-2026. - pg. 10"}
+{"timestamp": "2026-06-18T03:38:02.114743", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1138 completion=95 total=1233"}
+{"timestamp": "2026-06-18T03:38:02.114968", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1233"}
+{"timestamp": "2026-06-18T03:38:02.115160", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1034, de 16-06-2026. - pg. 11"}
+{"timestamp": "2026-06-18T03:38:33.785558", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1138 completion=95 total=1233"}
+{"timestamp": "2026-06-18T03:38:33.785886", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1233"}
+{"timestamp": "2026-06-18T03:38:33.786128", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1035, de 16-06-2026. - pg. 12"}
+{"timestamp": "2026-06-18T03:38:49.999941", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1126 completion=88 total=1214"}
+{"timestamp": "2026-06-18T03:38:50.000098", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1214"}
+{"timestamp": "2026-06-18T03:38:50.000223", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1036, de 16-06-2026. - pg. 13"}
+{"timestamp": "2026-06-18T03:38:58.774914", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1049 completion=99 total=1148"}
+{"timestamp": "2026-06-18T03:38:58.775097", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1148"}
+{"timestamp": "2026-06-18T03:38:58.775237", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1024, de 15-06-2026. - pg. 1"}
+{"timestamp": "2026-06-18T03:39:13.410888", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1147 completion=90 total=1237"}
+{"timestamp": "2026-06-18T03:39:13.411210", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1237"}
+{"timestamp": "2026-06-18T03:39:13.411486", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1025, de 15-06-2026. - pg. 2"}
+{"timestamp": "2026-06-18T03:39:22.992012", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1055 completion=94 total=1149"}
+{"timestamp": "2026-06-18T03:39:22.992258", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1149"}
+{"timestamp": "2026-06-18T03:39:22.992460", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: ATA (CPOS-QUI/INQUI) Reuni\u00e3o Ordin\u00e1ria n\u00ba 88, de 17-06-2026."}
+{"timestamp": "2026-06-18T03:39:39.909270", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2738 completion=124 total=2862"}
+{"timestamp": "2026-06-18T03:39:39.909551", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2862"}
+{"timestamp": "2026-06-18T03:39:39.909789", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: ATA (CPOS-QUI/INQUI) Reuni\u00e3o Ordin\u00e1ria n\u00ba 88, de 17-06-2026."}
+{"timestamp": "2026-06-18T03:40:00.524954", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2685 completion=489 total=3174"}
+{"timestamp": "2026-06-18T03:40:00.525277", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3174"}
+{"timestamp": "2026-06-18T03:40:00.527404", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\012_programa_de_p\u00f3s_gradua\u00e7\u00e3o_em_qu\u00edmica_homologa_resu.md"}
+{"timestamp": "2026-06-18T03:40:00.527611", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1026, de 16-06-2026. - pg. 3"}
+{"timestamp": "2026-06-18T03:40:06.778542", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1263 completion=92 total=1355"}
+{"timestamp": "2026-06-18T03:40:06.778751", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1355"}
+{"timestamp": "2026-06-18T03:40:06.778900", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (RTR) n\u00ba 1029, de 16-06-2026. - pg. 6"}
+{"timestamp": "2026-06-18T03:40:32.253709", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1109 completion=100 total=1209"}
+{"timestamp": "2026-06-18T03:40:32.253889", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1209"}
+{"timestamp": "2026-06-18T03:40:32.254036", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROAES/RTR) n\u00ba 17, de 16-06-2026. - pg. 14"}
+{"timestamp": "2026-06-18T03:40:49.824723", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1146 completion=95 total=1241"}
+{"timestamp": "2026-06-18T03:40:49.824890", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1241"}
+{"timestamp": "2026-06-18T03:40:49.825024", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROAES/RTR) n\u00ba 18, de 16-06-2026. - pg. 15"}
+{"timestamp": "2026-06-18T03:41:01.433832", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1109 completion=94 total=1203"}
+{"timestamp": "2026-06-18T03:41:01.434020", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1203"}
+{"timestamp": "2026-06-18T03:41:01.434172", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROGEP/RTR) n\u00ba 327, de 16-06-2026. - pg. 16"}
+{"timestamp": "2026-06-18T03:41:10.037553", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1345 completion=101 total=1446"}
+{"timestamp": "2026-06-18T03:41:10.037839", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1446"}
+{"timestamp": "2026-06-18T03:41:10.038064", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROGEP/RTR) n\u00ba 328, de 16-06-2026. - pg. 17"}
+{"timestamp": "2026-06-18T03:41:15.633420", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1575 completion=100 total=1675"}
+{"timestamp": "2026-06-18T03:41:15.633584", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1675"}
+{"timestamp": "2026-06-18T03:41:15.633714", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROGEP/RTR) n\u00ba 329, de 16-06-2026. - pg. 19"}
+{"timestamp": "2026-06-18T03:41:20.550296", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1591 completion=99 total=1690"}
+{"timestamp": "2026-06-18T03:41:20.550438", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1690"}
+{"timestamp": "2026-06-18T03:41:20.550552", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (PROGEP/RTR) n\u00ba 330, de 16-06-2026. - pg. 21"}
+{"timestamp": "2026-06-18T03:41:24.371262", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1507 completion=107 total=1614"}
+{"timestamp": "2026-06-18T03:41:24.371420", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=1614"}
+{"timestamp": "2026-06-18T03:41:24.371568", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: PORTARIA (PROGEP/RTR) n\u00ba 330, de 16-06-2026. - pg. 21"}
+{"timestamp": "2026-06-18T03:41:51.673443", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1480 completion=477 total=1957"}
+{"timestamp": "2026-06-18T03:41:51.673766", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=1957"}
+{"timestamp": "2026-06-18T03:41:51.675518", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\013_ufms_divulga_composi\u00e7\u00e3o_da_comiss\u00e3o_recursal_de_he.md"}
+{"timestamp": "2026-06-18T03:41:51.675760", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA (CPCS) n\u00ba 80, de 16-06-2026. - pg. 23"}
+{"timestamp": "2026-06-18T03:41:58.875375", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1233 completion=96 total=1329"}
+{"timestamp": "2026-06-18T03:41:58.875543", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1329"}
+{"timestamp": "2026-06-18T03:41:58.875677", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: PORTARIA CONJUNTA (RTR) n\u00ba 11, de 15-06-2026. - pg. 280"}
+{"timestamp": "2026-06-18T03:42:05.518989", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1252 completion=105 total=1357"}
+{"timestamp": "2026-06-18T03:42:05.519213", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1357"}
+{"timestamp": "2026-06-18T03:42:05.519404", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EXTRATO DE TERMO ADITIVO AO TERMO DE AUTORIZA\u00c7\u00c3O DE USO n\u00b0 4"}
+{"timestamp": "2026-06-18T03:42:10.804843", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1216 completion=95 total=1311"}
+{"timestamp": "2026-06-18T03:42:10.805068", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1311"}
+{"timestamp": "2026-06-18T03:42:10.805266", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROAES/RTR) n\u00ba 90, de 16-06-2026. - pg. 171"}
+{"timestamp": "2026-06-18T03:42:20.332452", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=1219 completion=106 total=1325"}
+{"timestamp": "2026-06-18T03:42:20.332626", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=baixa cobertura=n\u00e3o-noticiar tokens=1325"}
+{"timestamp": "2026-06-18T03:42:20.332778", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROAES/RTR) n\u00ba 91, de 16-06-2026. - pg. 173"}
+{"timestamp": "2026-06-18T03:42:25.809427", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3110 completion=115 total=3225"}
+{"timestamp": "2026-06-18T03:42:25.809589", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=3225"}
+{"timestamp": "2026-06-18T03:42:25.809719", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROAES/RTR) n\u00ba 91, de 16-06-2026. - pg. 173"}
+{"timestamp": "2026-06-18T03:43:13.948691", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3054 completion=395 total=3449"}
+{"timestamp": "2026-06-18T03:43:13.949027", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3449"}
+{"timestamp": "2026-06-18T03:43:13.951004", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\014_proaes_divulga_resultado_final_de_empr\u00e9stimo_de_no.md"}
+{"timestamp": "2026-06-18T03:43:13.951347", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROAES/RTR) n\u00ba 92, de 16-06-2026. - pg. 186"}
+{"timestamp": "2026-06-18T03:43:18.315186", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3454 completion=115 total=3569"}
+{"timestamp": "2026-06-18T03:43:18.315440", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=3569"}
+{"timestamp": "2026-06-18T03:43:18.315660", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROAES/RTR) n\u00ba 92, de 16-06-2026. - pg. 186"}
+{"timestamp": "2026-06-18T03:43:34.319705", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=3465 completion=470 total=3935"}
+{"timestamp": "2026-06-18T03:43:34.319976", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=3935"}
+{"timestamp": "2026-06-18T03:43:34.321716", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\015_ufms_divulga_resultado_de_aux\u00edlio_para_estudantes_.md"}
+{"timestamp": "2026-06-18T03:43:34.321950", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROCIDS/RTR) n\u00ba 25, de 16-06-2026. - pg. 190"}
+{"timestamp": "2026-06-18T03:43:35.587945", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2135 completion=117 total=2252"}
+{"timestamp": "2026-06-18T03:43:35.588153", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=m\u00e9dia cobertura=nota curta tokens=2252"}
+{"timestamp": "2026-06-18T03:43:35.588307", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROCIDS/RTR) n\u00ba 25, de 16-06-2026. - pg. 190"}
+{"timestamp": "2026-06-18T03:43:55.696873", "exec_id": "734a8d10", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=2113 completion=497 total=2610"}
+{"timestamp": "2026-06-18T03:43:55.697094", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=2610"}
+{"timestamp": "2026-06-18T03:43:55.698375", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\016_ufms_divulga_resultado_preliminar_de_mentoria_do_p.md"}
+{"timestamp": "2026-06-18T03:43:55.699720", "exec_id": "734a8d10", "level": "INFO", "logger": "agent.saida", "message": "saida | relat\u00f3rio CSV salvo: saidas\\relatorio_cobertura.csv (49 linhas)"}
+{"timestamp": "2026-06-18T03:43:55.699838", "exec_id": "734a8d10", "level": "INFO", "logger": "__main__", "message": "orquestrador | conclu\u00eddo | total=49 noticiados=16 tokens=138073 chamadas=65"}
+{"timestamp": "2026-06-18T16:21:01.623317", "exec_id": "aa556588", "level": "INFO", "logger": "agent.decisao", "message": "decisao | avaliando: EDITAL (PROGRAD/RTR) no 257, de 17-06-2026."}
+{"timestamp": "2026-06-18T16:21:04.353337", "exec_id": "aa556588", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=672 completion=98 total=770"}
+{"timestamp": "2026-06-18T16:21:04.353696", "exec_id": "aa556588", "level": "INFO", "logger": "agent.decisao", "message": "decisao | resultado: relevancia=alta cobertura=nota curta tokens=770"}
+{"timestamp": "2026-06-18T16:21:04.354760", "exec_id": "aa556588", "level": "INFO", "logger": "agent.saida", "message": "saida | gerando rascunho: EDITAL (PROGRAD/RTR) no 257, de 17-06-2026."}
+{"timestamp": "2026-06-18T16:21:19.919047", "exec_id": "aa556588", "level": "DEBUG", "logger": "agent.llm", "message": "call_llm | tokens prompt=670 completion=379 total=1049"}
+{"timestamp": "2026-06-18T16:21:19.919234", "exec_id": "aa556588", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho gerado | tokens=1049"}
+{"timestamp": "2026-06-18T16:21:19.921011", "exec_id": "aa556588", "level": "INFO", "logger": "agent.saida", "message": "saida | rascunho salvo: saidas\\rascunhos\\001_ufms_abre_segunda_convoca\u00e7\u00e3o_para_matr\u00edcula_de_mov.md"}
+{"timestamp": "2026-06-18T16:21:19.923038", "exec_id": "aa556588", "level": "INFO", "logger": "agent.saida", "message": "saida | relat\u00f3rio CSV salvo: saidas\\relatorio_cobertura.csv (1 linhas)"}
+{"timestamp": "2026-06-18T16:21:19.923176", "exec_id": "aa556588", "level": "INFO", "logger": "agent.grafo", "message": "grafo | finalizado | total=1 noticiados=1 tokens=1819 chamadas=2"}
